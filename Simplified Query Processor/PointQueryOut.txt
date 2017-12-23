@@ -1,0 +1,12 @@
+RangeRatingsPart4,3,110,4.5
+RangeRatingsPart4,3,151,4.5
+RangeRatingsPart4,3,27821,4.5
+RangeRatingsPart4,18,541,4.5
+RangeRatingsPart4,18,608,4.5
+RangeRatingsPart4,18,778,4.5
+RoundRobinRatingsPart0,18,608,4.5
+RoundRobinRatingsPart0,18,778,4.5
+RoundRobinRatingsPart1,18,541,4.5
+RoundRobinRatingsPart2,3,110,4.5
+RoundRobinRatingsPart3,3,151,4.5
+RoundRobinRatingsPart4,3,27821,4.5
